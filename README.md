@@ -1,2 +1,2 @@
-# js_100_day_1
-Background Color Change
+# Small Daily JavaScript Projects
+ 1.) Background Color Change
